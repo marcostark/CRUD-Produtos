@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.qgdostark.crud_produtos.MainActivity">
+
+    <item
+        android:id="@+id/form_item_salvar"
+        android:title="Ok"
+        android:icon="@mipmap/ic_save"
+        app:showAsAction="always"
+        />
+
+</menu>
